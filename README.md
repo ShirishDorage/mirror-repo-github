@@ -67,7 +67,7 @@ git push -u origin main
 ```
 ## Output
 **In GITLAB:**
-![](./images/Screenshot%202025-10-10%20083657.png)
+![](./images/Screenshot%202025-10-14%20235518.png)
 
 **In GITHUB:**
 
